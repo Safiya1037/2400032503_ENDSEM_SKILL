@@ -1,2 +1,3 @@
 Event Calendar Feature
 Basic file created for Git branching.
+Event calendar logic implemented.
